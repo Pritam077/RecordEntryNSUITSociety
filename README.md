@@ -34,3 +34,4 @@ The project uses various C concepts,
 such as while loop, if statement and 
 switch case statement to display the 
 required functionality.
+I wrote this program using [C programming](https://en.m.wikipedia.org/wiki/C_(programming_language)#:~:text=C%20is%20an%20imperative%20procedural,all%20with%20minimal%20runtime%20support)   
