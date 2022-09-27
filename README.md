@@ -1,4 +1,4 @@
-           #INTRODUCTION
+            INTRODUCTION 
 
         ||RECORD ENTRY SYSTEM||
 
