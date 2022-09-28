@@ -6,7 +6,10 @@ The objective of the record entry
 system is to develop a login-based
 record keeping system, which has nested
 menus and different interfaces for 
-different sets of users.
+different sets of users.This Employee 
+Record Management System Project in C 
+is a consoled based application created 
+using c programming language. 
 
 The application contains separate 
 interfaces defined for an administrator 
