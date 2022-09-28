@@ -43,16 +43,25 @@ I wrote this program using [C programming](https://en.m.wikipedia.org/wiki/C_(pr
 The user will be provided with 5 options:
 
 -Add a new record.
+
 -Delete a record.
+
 -Modify a record.
+
 -View all the records.
+
 -Exit.
+
 -Data of the Employees:
 
 -Name.
+
 -Age.
+
 -Salary.
+
 -Employee ID.
+
 Approach: All the functions will be 
 provided under switch cases. 
 The idea is to use the concepts of 
