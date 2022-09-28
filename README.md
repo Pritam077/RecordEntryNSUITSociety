@@ -24,4 +24,4 @@ any other key, they can end the game and
 come back later.
 
 ## Everything about the game
-To know more about game [press here]<https://www.wikihow.com/Play-Tic-Tac-Toe>.
+To know more about game [press here](https://www.wikihow.com/Play-Tic-Tac-Toe).
