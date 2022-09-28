@@ -22,6 +22,8 @@ system, after which users can enter the
 gaming area on pressing 1 or by pressing 
 any other key, they can end the game and 
 come back later.`
+- In between game scene.
+https://github.com/mishal23/Tic-Tac-Toe/blob/master/images/Inbetween%20Game%20Scene.png
 
 ## Everything about the game
 To know more about game [press here](https://www.wikihow.com/Play-Tic-Tac-Toe)
