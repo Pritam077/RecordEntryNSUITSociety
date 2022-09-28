@@ -1,6 +1,6 @@
 # INTRODUCTION             
 
-        ||RECORD ENTRY SYSTEM||
+***||RECORD ENTRY SYSTEM||***
 
 The objective of the record entry
 system is to develop a login-based
