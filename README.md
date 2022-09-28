@@ -53,7 +53,6 @@ The user will be provided with 5 options:
 -Exit.
 
 -Data of the Employees:
-
 -Name.
 
 -Age.
