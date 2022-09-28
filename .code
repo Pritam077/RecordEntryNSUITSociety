@@ -1,15 +1,10 @@
 /Application: Record Entry System Compiled on: Borland Turbo C++ 3.0/
 
 #include <stdio.h>
-
 #include <conio.h>
-
 #include <string.h>
-
 #include <dos.h>
-
 #include <ctype.h>
-
 void dataentry (void);
 
 void selectAdminOption(void); void getData(int option);
@@ -17,7 +12,7 @@ void selectAdminOption(void); void getData(int option);
 int showAdminMenu;
 
 void main()
-
+{
 int cancelOption, timeOption, entryOption,exitOption;
 
 char choice[1];
