@@ -38,3 +38,26 @@ such as while loop, if statement and
 switch case statement to display the 
 required functionality.
 I wrote this program using [C programming](https://en.m.wikipedia.org/wiki/C_(programming_language)#:~:text=C%20is%20an%20imperative%20procedural,all%20with%20minimal%20runtime%20support).   
+
+# Aim of the Employee’s Record System: 
+The user will be provided with 5 options:
+
+-Add a new record.
+-Delete a record.
+-Modify a record.
+-View all the records.
+-Exit.
+-Data of the Employees:
+
+-Name.
+-Age.
+-Salary.
+-Employee ID.
+Approach: All the functions will be 
+provided under switch cases. 
+The idea is to use the concepts of 
+File Handling to write the data in a 
+text file and read the written data as 
+well. We need to add a data.txt file in 
+the same folder as well.
+
