@@ -40,4 +40,4 @@ Here are some things, which I want to implement in due course of time!
 `Any such changes if you can make or have any other ideas, please do contribute!`
 ## Contributor
 Tech buddy -[Priyanshu](https://github.com/priyanshu-karmakar)
-![This is an image](https://images.app.goo.gl/hqrMzvPSEqtQxMkZ9)
+![This is an image](https://assets/images/electrocat.png)
